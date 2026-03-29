@@ -1,0 +1,9 @@
+com\example\usercenter\mapper\UserMapper.class
+com\example\usercenter\model\domain\request\UserLoginRequest.class
+com\example\usercenter\controller\UserController.class
+com\example\usercenter\service\impl\UserServiceImpl.class
+com\example\usercenter\service\UserService.class
+com\example\usercenter\constant\UserContsant.class
+com\example\usercenter\UserCenterApplication.class
+com\example\usercenter\model\domain\request\UserRegisterRequest.class
+com\example\usercenter\model\domain\User.class
