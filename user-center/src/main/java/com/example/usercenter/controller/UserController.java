@@ -58,6 +58,12 @@ public class UserController {
         return userService.userLogin(userAccount,userPassword,request);
     }
 
+    /**
+     *  搜索
+     * @param username
+     * @param request
+     * @return
+     */
     @GetMapping("/search")
     public List<User> searchUsers(String username,HttpServletRequest request) {
         if (!isAdmin(request)){
