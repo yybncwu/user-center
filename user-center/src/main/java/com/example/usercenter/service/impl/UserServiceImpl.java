@@ -28,7 +28,7 @@ public class UserServiceImpl extends ServiceImpl<UserMapper, User>
     /**
      * 加盐
      */
-    private static final String SALT = "yupi";
+    private static final String SALT = "yang";
 
 
     @Override
